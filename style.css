@@ -1,0 +1,100 @@
+*{
+  margin:auto;
+  padding:0;
+}
+/*заголовок*/
+h1{
+  color: #3d0099;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+/*календарь*/
+tr{
+  text-align: center;
+  border: 1px solid black;
+}
+
+th, td{
+  border: 1px solid black;
+  text-align: center;
+  height:30px;
+  width:100px; 
+}
+.mon {
+  background: #6495ed; /* Для старых браузеров */
+  background: linear-gradient(to top, #bed2f7, #6495ed);
+}
+
+/*список задач*/
+th{
+  border:none;
+  text-align: center;
+}
+.list1{*{
+  margin:auto;
+  padding:0;
+}
+/*заголовок*/
+h1{
+  color: #3d0099;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+/*календарь*/
+tr{
+  text-align: center;
+  border: 1px solid black;
+}
+
+th, td{
+  border: 1px solid black;
+  text-align: center;
+  height:30px;
+  width:100px; 
+}
+.mon {
+  background: #6495ed; /* Для старых браузеров */
+  background: linear-gradient(to top, #bed2f7, #6495ed);
+}
+
+/*список задач*/
+th{
+  border:none;
+  text-align: center;
+}
+.list1{
+  height:20px;
+  width:20px; 
+}
+.list2{
+  height:20px;
+  width:800px;
+  border-width:0px 0px 1px 0px;
+}
+.list3{
+  height:20px;
+  width:100px;
+}
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/8b/da/46/8bda46ffdf11965ca5ca8d97fcc4b6f4.jpg")
+  }
+
+  height:20px;
+  width:20px; 
+}
+.list2{
+  height:20px;
+  width:800px;
+  border-width:0px 0px 1px 0px;
+}
+.list3{
+  height:20px;
+  width:100px;
+}
+body{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/8b/da/46/8bda46ffdf11965ca5ca8d97fcc4b6f4.jpg")
+  }
